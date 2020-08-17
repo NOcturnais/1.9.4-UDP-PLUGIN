@@ -5,7 +5,7 @@ import party.detection.unknown.plugin.annotations.Plugin;
 import party.detection.unknown.plugin.annotations.PluginGroup;
 import party.detection.unknown.util.Keyboard;
 
-@PluginGroup("OOF") // Only one plugin in your workspace needs to have this annotation
+@PluginGroup("OOF")
 @Plugin(
         name = "HookTest",
         description = "oof",
